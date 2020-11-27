@@ -7,5 +7,5 @@ Juego de monopoly para 2 jugadores
 
 Se encuentra un ejecutable dentro del juego
 # ScreenShots
-![Alt text](https://github.com/JoelArdon/Mundo-de-los-Animales/blob/main/AnimalsWorld-master/ScreenShots/1.PNG?raw=true)
+![Alt text](https://github.com/JoelArdon/Monopoly/blob/main/Monoly/SS/1.PNG)
 
